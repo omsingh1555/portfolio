@@ -488,3 +488,16 @@ button:hover{
 #nav a:hover{
   color:#38bdf8;
 }
+#about_logo img{
+    width:220px;
+    height:220px;
+
+    object-fit:cover;
+
+    border-radius:50%;
+
+    border:5px solid #2563eb;
+
+    box-shadow:
+    0 0 30px rgba(37,99,235,.4);
+}
